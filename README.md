@@ -5,6 +5,8 @@
 * Microsoft-Excel
 ## Solution:
 * A dashboard was built using data obtained from excel. The data transformations were done using excel conditional formats and charts were generated using pivot tables. Overall, this dashboard aimed at increasing the revenue by 8 % in coming years.
+### Dashboard:
+![](https://github.com/SivaSai0404/Excel-Project/blob/main/Screenshot%20(647).png)
 ## Key Insights:
 * From the Dashboard, middle-aged people purchased the highest bikes in all regions.
 * Adolescence and old age people purchased low number of bikes.
